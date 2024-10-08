@@ -9,3 +9,8 @@ Breaking News is an iOS application that displays the latest news from around th
 - 🚀 **Elegant UI**: Modern and responsive UI built with `UITableView` and `UICollectionView`.
 - 🗂 **Tabbed Interface**: Navigate seamlessly between different news categories with a tab bar.
 - 🔗 **WebKit Integration**: View the full article directly within the app.
+
+## Screnshot
+<p>
+  <img src="https://github.com/user-attachments/assets/919675b0-9c11-495e-ad2b-685b5ffe6ae5" width="220px">
+</p>p
