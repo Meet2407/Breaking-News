@@ -19,7 +19,6 @@ Breaking News is an iOS application that displays the latest news from around th
 </p>
 
 
-
 https://github.com/user-attachments/assets/b15b407f-dbfe-4780-b1af-40ec0e588ea4
 
 
